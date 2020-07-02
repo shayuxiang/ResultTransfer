@@ -1,0 +1,17 @@
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.exe
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.deps.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.runtimeconfig.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.runtimeconfig.dev.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\ResultTransfer.Server.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.csprojAssemblyReference.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.AssemblyInfoInputs.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.AssemblyInfo.cs
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.genruntimeconfig.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.csproj.CopyComplete
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Debug\netcoreapp3.1\ResultTransfer.Server.csproj.CoreCompileInputs.cache

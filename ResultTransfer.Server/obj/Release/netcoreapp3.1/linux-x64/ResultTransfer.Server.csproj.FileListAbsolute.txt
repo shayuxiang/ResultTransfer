@@ -1,0 +1,16 @@
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.deps.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.runtimeconfig.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.runtimeconfig.dev.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\RabbitMQ.Client.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\bin\Release\netcoreapp3.1\linux-x64\System.Threading.Channels.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.AssemblyInfoInputs.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.AssemblyInfo.cs
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.csproj.CoreCompileInputs.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.csproj.CopyComplete
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Server\obj\Release\netcoreapp3.1\linux-x64\ResultTransfer.Server.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fc+u3952fqLxoLVyidvki1EsTT85jmf4ZFsLxLpwm7zGn5zSYLxRe/JwCM69hEvjvzuvP6nvr9Ozb8wEDCDeVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shayuxiang\\source\\repos\\ResultTransfer\\ResultTransfer.Server\\ResultTransfer.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

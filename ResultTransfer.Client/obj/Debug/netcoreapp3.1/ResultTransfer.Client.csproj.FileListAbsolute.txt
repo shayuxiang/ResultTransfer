@@ -1,0 +1,17 @@
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.exe
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.csprojAssemblyReference.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.AssemblyInfoInputs.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.AssemblyInfo.cs
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.csproj.CopyComplete
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.deps.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.runtimeconfig.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.runtimeconfig.dev.json
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\ResultTransfer.Client.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.csproj.CoreCompileInputs.cache
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.dll
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.pdb
+C:\Users\shayuxiang\source\repos\ResultTransfer\ResultTransfer.Client\obj\Debug\netcoreapp3.1\ResultTransfer.Client.genruntimeconfig.cache
